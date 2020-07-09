@@ -3,13 +3,13 @@ Curso Básico de Algoritmo
 
 Exercicios Básicos
 
-1 - Determinar se um número é par ou ímpar e positivo ou negativo
+  1 - Determinar se um número é par ou ímpar e positivo ou negativo
 
-2 - Ler três notas de um aluno, calcular a média e informar se ele foi aprovado (Média ≥ 7), reprovado (Média < 7) ou aprovado com louvor (Média = 10)
+  2 - Ler três notas de um aluno, calcular a média e informar se ele foi aprovado (Média ≥ 7), reprovado (Média < 7) ou aprovado com louvor (Média = 10)
 
-3 - Escrever um algoritmo que lê um número 15 valores, um de cada vez, e conta quantos deles estão em cada um dos intervalos [0,25], (25,50], (50,75], (75,100].
+  3 - Escrever um algoritmo que lê um número 15 valores, um de cada vez, e conta quantos deles estão em cada um dos intervalos [0,25], (25,50], (50,75], (75,100].
 
-4 - Faça um algoritmo que leia o nome do aluno, a nota total dos trabalhos, a nota da primeira e segunda avaliação, calcule a nota final e o conceito obtido seguindo a seguinte formula:
+  4 - Faça um algoritmo que leia o nome do aluno, a nota total dos trabalhos, a nota da primeira e segunda avaliação, calcule a nota final e o conceito obtido seguindo a seguinte formula:
 
 A média da avaliação será calculada da seguinte forma:
 Se a nota da primeira avaliação for maior que a nota da segunda avaliação, então a média da avaliação será a soma das duas notas e dividida por dois.
@@ -26,7 +26,7 @@ Se a nota final estiver entre 6.0 e 6.9, então o conceito é C.
 Se a nota final estiver entre 0.1 e 5.9, então o conceito é D.
 Se a nota final for igual a 0.0, então o conceito é E.
 
-5 - Faça um algoritmo que receba dois números de
+  5 - Faça um algoritmo que receba dois números de
 entrada mostre a soma, a diferença, o produto e a média aritmética
 desses valores. 
 
